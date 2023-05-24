@@ -59,7 +59,7 @@ pyyaml==5.4
     #   -r ./requirements.txt
     #   ops
     #   serialized-data-interface
-requests==2.25.0
+requests==2.31.0
     # via
     #   -r ./requirements.txt
     #   serialized-data-interface
