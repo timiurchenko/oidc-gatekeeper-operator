@@ -32,7 +32,7 @@ serialized-data-interface==0.3.5
     # via -r ./requirements.in
 six==1.16.0
     # via jsonschema
-urllib3==1.26.13
+urllib3==1.26.18
     # via requests
 
 # The following packages are considered to be unsafe in a requirements file:
